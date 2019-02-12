@@ -1,9 +1,16 @@
 <html>
-  <title>  This is my First message into the world since college
+
+  <title>  Hello World!!
   </title>
+
 <body>
-    <script language = "javascript">
-      document.write("Hello World! This is my first communicae since college.");
-      document.write("<br>   Trying new things can be fun! </br>");
+
+  <h1>Eric Goldstein <em>aka</em> RicoColdspleen <em>aka</em> EricMGoldstein</h1>
+
+  <p>this is a line of text for this page <br> this is another line of text
+  </p>
+
+<p>Would you like to check out my <a href="https://www.facebook.com/eric.goldstein.10">facebook</a> page?</p>
+
 </body>
 </html>
